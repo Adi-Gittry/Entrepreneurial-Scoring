@@ -1,0 +1,6 @@
+{
+  "name": "Entrepreneurial Readiness & Potential Assessment",
+  "description": "A highly professional, comprehensive 10-dimension assessment tool to evaluate the entrepreneurial mindset, startup readiness, and founder qualities of individuals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
